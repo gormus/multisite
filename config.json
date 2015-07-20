@@ -1,0 +1,21 @@
+{
+  "config": {
+    "env": {
+      "development": "dev",
+      "staging": "test",
+      "production": "live"
+    },
+    "path": {
+      "drupal_core": "drupal_core",
+      "drupal_managed_files": "drupal_managed_files",
+      "drupal_sites_all": "drupal_sites_all",
+      "drupal_web_sites": "drupal_web_sites",
+      "templates": "templates",
+      "backups": "backups"
+    },
+    "domains": [
+      "example1.com",
+      "example2.com"
+    ]
+  }
+}
