@@ -1,4 +1,4 @@
-[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) [![devDependency Status](https://david-dm.org/gormus/multisite/dev-status.svg)](https://david-dm.org/gormus/multisite#info=devDependencies) 
 
 # Multiple Drupal 7 Websites with a shared core
 This is a hybrid solution for the Drupal's multisite installation.
